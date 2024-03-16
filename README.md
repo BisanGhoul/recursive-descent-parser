@@ -8,3 +8,4 @@ Key features of the parser include:
     Error handling with detailed error messages indicating the line number, unexpected token, and expected token or syntax.
 
 ## Produxtion Rules (Grammar):
+![Image Alt Text](https://github.com/BisanGhoul/recursive-descent-parser/blob/master/production%20rules.png)
